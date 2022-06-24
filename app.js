@@ -1,3 +1,3 @@
 console.log("hello world");
 console.log("calculator");
-console.log("khetpatiparn);
+console.log("khetpatiparn");
